@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: ;
+}
+
+.col{
+    border: 1px none;
+}
+.topSpace{
+    margin-top: 65px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+footer{
+    height: 200px;
+}
